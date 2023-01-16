@@ -1,6 +1,6 @@
 import { halfOf, multiply } from "./lib.js";
-import { flag, touch } from "./changeValue.js";
-import defaultFunction from "./defaultFunction.js";
+import { flag, touch } from "./changevalue.js";
+import defaultFunction from "./defaultfunction.js";
 
 
 console.log(halfOf(84));
